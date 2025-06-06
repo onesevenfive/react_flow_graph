@@ -1,5 +1,6 @@
 {
   "name": "test_task",
+  "homepage": "https://onesevenfive.github.io/react_flow_graph",
   "private": true,
   "version": "0.0.0",
   "type": "module",
